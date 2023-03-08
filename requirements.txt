@@ -99,7 +99,7 @@ jsonify==0.5
 jsonschema==3.2.0
 jupyter==1.0.0
 jupyter-client==6.1.3
-jupyter-codeserver-proxy @ git+git://github.com/dominodatalab/jupyter_codeserver_proxy-.git@08fa1112e1c98ceaeddaabd1a727cc8bece3d981
+#jupyter-codeserver-proxy @ git+https://github.com/dominodatalab/jupyter_codeserver_proxy-.git@08fa1112e1c98ceaeddaabd1a727cc8bece3d981
 jupyter-console==6.1.0
 jupyter-core==4.6.3
 jupyter-server-proxy==1.4.0
